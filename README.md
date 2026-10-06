@@ -29,9 +29,8 @@ I'm organized, reliable and used to staying calm when things get busy.
 
 | Role | Duration | What I did |
 |:--|:--|:--|
-| **Childcare Supervisor** | 2 years, 3 months | Looked after and supervised groups of children, keeping them safe and engaged while working with families and staff. |
-| **Party Coordinator** | — | Planned and ran children's events: managed schedules, coordinated activities and solved problems on the spot. |
-| **Church Volunteer** | Ongoing | Serve actively in my church community, helping organize and support its activities. |
+| **Kids' Party Coordinator** | 3 months · *Present* | Coordinate children's parties: manage schedules, run activities and solve problems on the spot. |
+| **Childcare Supervisor** · Musical theatre school | 2 years | Supervised groups of children at a musical theatre institute, keeping them safe and engaged while working with families and staff. |
 
 **Skills I built along the way:** leadership · communication · teamwork · responsibility · working under pressure
 
@@ -105,7 +104,7 @@ I'm organized, reliable and used to staying calm when things get busy.
 - **Musical theatre:** 15 years of acting, singing and dancing on stage
 - **Music:** I play the piano and love to sing
 - **Chess and video games:** I enjoy strategy in every form
-- **Faith:** I'm a Christian, and my faith is at the heart of who I am
+- **Faith:** I'm a Christian and serve actively at my church. It's at the heart of who I am
 - **Mate:** always within reach while I code
 
 ---
@@ -132,15 +131,6 @@ I'm organized, reliable and used to staying calm when things get busy.
   <a href="https://www.linkedin.com/in/mora-vilar-824b85279/"><img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=2B2140" alt="LinkedIn"/></a>
   <a href="mailto:mvilar@mail.austral.edu.ar"><img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=2B2140" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Rosario,_Argentina-C8B6FF?style=for-the-badge&logo=googlemaps&logoColor=2B2140" alt="Location"/>
-</p>
-
-<!-- ============ FOOTER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:C8B6FF,100:A2D2FF&height=120&section=footer" width="100%" alt="footer"/>
-</p>
-
-<p align="center">
-  <i>Always learning, always curious. Feel free to reach out!</i>
 </p>
 
 <!-- ============ FOOTER ============ -->
