@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="60" viewBox="0 0 350 60">
+  <style>
+    rect { transform-box: fill-box; transform-origin: center bottom; animation-name: eq; animation-iteration-count: infinite; animation-timing-function: ease-in-out; animation-direction: alternate; }
+    @keyframes eq { 0%{transform:scaleY(0.15)} 50%{transform:scaleY(0.7)} 100%{transform:scaleY(1)} }
+  </style>
+    <rect x="10" y="10" width="8" height="40" rx="4" fill="#A2D2FF" style="animation-duration:0.90s;animation-delay:-0.00s"/>
+  <rect x="24" y="10" width="8" height="40" rx="4" fill="#A2D2FF" style="animation-duration:1.40s;animation-delay:-0.13s"/>
+  <rect x="38" y="10" width="8" height="40" rx="4" fill="#A2D2FF" style="animation-duration:1.90s;animation-delay:-0.26s"/>
+  <rect x="52" y="10" width="8" height="40" rx="4" fill="#A2D2FF" style="animation-duration:1.15s;animation-delay:-0.39s"/>
+  <rect x="66" y="10" width="8" height="40" rx="4" fill="#A2D2FF" style="animation-duration:1.65s;animation-delay:-0.52s"/>
+  <rect x="80" y="10" width="8" height="40" rx="4" fill="#B6C4FF" style="animation-duration:0.90s;animation-delay:-0.65s"/>
+  <rect x="94" y="10" width="8" height="40" rx="4" fill="#B6C4FF" style="animation-duration:1.40s;animation-delay:-0.78s"/>
+  <rect x="108" y="10" width="8" height="40" rx="4" fill="#B6C4FF" style="animation-duration:1.90s;animation-delay:-0.91s"/>
+  <rect x="122" y="10" width="8" height="40" rx="4" fill="#B6C4FF" style="animation-duration:1.15s;animation-delay:-1.04s"/>
+  <rect x="136" y="10" width="8" height="40" rx="4" fill="#B6C4FF" style="animation-duration:1.65s;animation-delay:-1.17s"/>
+  <rect x="150" y="10" width="8" height="40" rx="4" fill="#C8B6FF" style="animation-duration:0.90s;animation-delay:-1.30s"/>
+  <rect x="164" y="10" width="8" height="40" rx="4" fill="#C8B6FF" style="animation-duration:1.40s;animation-delay:-1.43s"/>
+  <rect x="178" y="10" width="8" height="40" rx="4" fill="#C8B6FF" style="animation-duration:1.90s;animation-delay:-1.56s"/>
+  <rect x="192" y="10" width="8" height="40" rx="4" fill="#C8B6FF" style="animation-duration:1.15s;animation-delay:-1.69s"/>
+  <rect x="206" y="10" width="8" height="40" rx="4" fill="#C8B6FF" style="animation-duration:1.65s;animation-delay:-1.82s"/>
+  <rect x="220" y="10" width="8" height="40" rx="4" fill="#DCC2F5" style="animation-duration:0.90s;animation-delay:-1.95s"/>
+  <rect x="234" y="10" width="8" height="40" rx="4" fill="#DCC2F5" style="animation-duration:1.40s;animation-delay:-2.08s"/>
+  <rect x="248" y="10" width="8" height="40" rx="4" fill="#DCC2F5" style="animation-duration:1.90s;animation-delay:-2.21s"/>
+  <rect x="262" y="10" width="8" height="40" rx="4" fill="#DCC2F5" style="animation-duration:1.15s;animation-delay:-2.34s"/>
+  <rect x="276" y="10" width="8" height="40" rx="4" fill="#DCC2F5" style="animation-duration:1.65s;animation-delay:-2.47s"/>
+  <rect x="290" y="10" width="8" height="40" rx="4" fill="#FFC8DD" style="animation-duration:0.90s;animation-delay:-2.60s"/>
+  <rect x="304" y="10" width="8" height="40" rx="4" fill="#FFC8DD" style="animation-duration:1.40s;animation-delay:-2.73s"/>
+  <rect x="318" y="10" width="8" height="40" rx="4" fill="#FFC8DD" style="animation-duration:1.90s;animation-delay:-2.86s"/>
+  <rect x="332" y="10" width="8" height="40" rx="4" fill="#FFC8DD" style="animation-duration:1.15s;animation-delay:-2.99s"/>
+</svg>
