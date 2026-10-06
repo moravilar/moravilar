@@ -7,14 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=C8B6FF&center=true&vCenter=true&width=620&lines=Data+Science+student+%40+Universidad+Austral;Curious+about+biology%2C+physics+%26+data;Python+%C2%B7+R+%C2%B7+learning+something+new+every+day;Musical+theatre+kid+turned+data+nerd" alt="typing intro"/>
 </p>
 
-<p align="center">
-  <a href="mailto:mvilar@mail.austral.edu.ar"><img src="https://img.shields.io/badge/Email-FFC8DD?style=flat-square&logo=gmail&logoColor=2B2140" alt="Email"/></a>
-  <!-- Uncomment and paste your LinkedIn URL when it's ready:
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=flat-square&logo=linkedin&logoColor=2B2140" alt="LinkedIn"/></a>
-  -->
-  <img src="https://img.shields.io/badge/Rosario,_Argentina-C8B6FF?style=flat-square&logo=googlemaps&logoColor=2B2140" alt="Location"/>
-</p>
-
 ---
 
 ### ✦ About me
@@ -29,6 +21,23 @@ I like finding the story hidden in a dataset, and I'm especially drawn to the pl
 - **Languages:** Spanish (native) · English (B2, preparing for Cambridge First)
 
 ---
+
+### ✦ Experience
+
+I've been working and taking on real responsibility from a young age, and it shaped how I study and work today:
+I'm organized, reliable and used to staying calm when things get busy.
+
+| Role | Duration | What I did |
+|:--|:--|:--|
+| **Childcare Supervisor** | 2 years, 3 months | Looked after and supervised groups of children, keeping them safe and engaged while working with families and staff. |
+| **Party Coordinator** | — | Planned and ran children's events: managed schedules, coordinated activities and solved problems on the spot. |
+| **Church Volunteer** | Ongoing | Serve actively in my church community, helping organize and support its activities. |
+
+**Skills I built along the way:** leadership · communication · teamwork · responsibility · working under pressure
+
+<p align="center">
+  <img src="./assets/data-line.svg" width="90%" alt="animated data line"/>
+</p>
 
 ### ✦ Tech stack
 
@@ -52,7 +61,7 @@ I like finding the story hidden in a dataset, and I'm especially drawn to the pl
 | Project | What it does | Built with |
 |:--|:--|:--|
 | [**Telegram Bot**](https://github.com/moravilar/REPO-NAME) | A Telegram bot that connects to external APIs and answers user requests. | Python · REST APIs · Telegram Bot API |
-| [**R Functions Package**](https://github.com/moravilar/REPO-NAME) | A custom package of reusable R functions for data analysis and statistics. | R · RStudio |
+| [**Weather Data R Package**](https://github.com/moravilar/REPO-NAME) | A package of R functions for cleaning, summarizing and analyzing meteorological data. | R · RStudio |
 
 <sub>More projects coming soon as I keep learning.</sub>
 
@@ -89,12 +98,15 @@ I like finding the story hidden in a dataset, and I'm especially drawn to the pl
 
 ### ✦ Beyond code
 
+<p align="center">
+  <img src="./assets/music-bars.svg" width="300" alt="animated music bars"/>
+</p>
+
 - **Musical theatre:** 15 years of acting, singing and dancing on stage
 - **Music:** I play the piano and love to sing
 - **Chess and video games:** I enjoy strategy in every form
-- **Faith:** I'm a Christian and serve actively at my church. It's at the heart of who I am
+- **Faith:** I'm a Christian, and my faith is at the heart of who I am
 - **Mate:** always within reach while I code
-- **Working with kids:** 2+ years as a childcare assistant and party coordinator, which taught me patience, communication and how to stay calm under pressure
 
 ---
 
@@ -109,6 +121,23 @@ I like finding the story hidden in a dataset, and I'm especially drawn to the pl
 </p>
 
 ---
+
+### ✦ Let's connect
+
+<p align="center">
+  <i>Always learning, always curious. Feel free to reach out!</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mora-vilar-824b85279/"><img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=2B2140" alt="LinkedIn"/></a>
+  <a href="mailto:mvilar@mail.austral.edu.ar"><img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=2B2140" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Rosario,_Argentina-C8B6FF?style=for-the-badge&logo=googlemaps&logoColor=2B2140" alt="Location"/>
+</p>
+
+<!-- ============ FOOTER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:C8B6FF,100:A2D2FF&height=120&section=footer" width="100%" alt="footer"/>
+</p>
 
 <p align="center">
   <i>Always learning, always curious. Feel free to reach out!</i>
