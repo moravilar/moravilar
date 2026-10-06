@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A2D2FF,50:C8B6FF,100:FFC8DD&height=200&section=header&text=Mora%20Vilar&fontSize=52&fontColor=2B2140&fontAlignY=36&desc=Data%20Science%20Student%20%C2%B7%20Rosario,%20Argentina&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDE7FF,45:A2D2FF,100:B4BCFF&height=200&section=header&text=Mora%20Vilar&fontSize=52&fontColor=1E2A4A&fontAlignY=36&desc=Data%20Science%20Student%20%C2%B7%20Rosario,%20Argentina&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=C8B6FF&center=true&vCenter=true&width=620&lines=Data+Science+student+%40+Universidad+Austral;Curious+about+biology%2C+physics+%26+data;Python+%C2%B7+R+%C2%B7+learning+something+new+every+day;Musical+theatre+kid+turned+data+nerd" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=A2D2FF&center=true&vCenter=true&width=620&lines=Data+Science+student+%40+Universidad+Austral;Curious+about+biology%2C+physics+%26+data;Python+%C2%B7+R+%C2%B7+learning+something+new+every+day;Musical+theatre+kid+turned+future+data+scientist" alt="typing intro"/>
 </p>
 
 ---
@@ -135,5 +135,5 @@ I'm organized, reliable and used to staying calm when things get busy.
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:C8B6FF,100:A2D2FF&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B4BCFF,55:A2D2FF,100:CDE7FF&height=120&section=footer" width="100%" alt="footer"/>
 </p>
